@@ -12,12 +12,12 @@ const  English = {
             showMessage: "Click options in the sidebar to manage students."
         },
         AddNewStudent: {
-            FirstName: 'First Name:',
+            FirstName: '*First Name:',
             LastName: 'Last Name:',
-            Standard: 'Standard:',
-            Address: 'Address:',
-            Mobile: 'Mobile No:',
-            Email: 'Email ID:',
+            Standard: '*Standard:',
+            Address: '*Address:',
+            Mobile: '*Mobile No:',
+            Email: '*Email ID:',
             Submit: 'Submit',
         },
         Promote: {
