@@ -28,6 +28,7 @@ const  English = {
             GenerateTransferCertificate: 'Generate Transfer certificate',
             btntext3: 'Get Details',
             btntext4: 'Test',
+            btnText5: 'Test2',
         },
         ShowAllStudents: {
             StudentInformation: "Student Information",
