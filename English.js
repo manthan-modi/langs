@@ -27,6 +27,7 @@ const  English = {
             btnText2: 'TC',
             GenerateTransferCertificate: 'Generate Transfer certificate',
             btntext3: 'Get Details',
+            btntext4: 'Test',
         },
         ShowAllStudents: {
             StudentInformation: "Student Information",
