@@ -25,8 +25,8 @@ const Hindi = {
             btnText: 'पदोन्नति दें',
             btnText2: 'टीसी',
             GenerateTransferCertificate: 'स्थानांतरण प्रमाणपत्र बनाएं',
-            btntext3:'विवरण प्राप्त करें'
-
+            btntext3:'विवरण प्राप्त करें',
+            btnText4: 'स्नातक',
         },
         ShowAllStudents: {
             StudentInformation: "छात्र जानकारी",

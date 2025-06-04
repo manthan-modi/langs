@@ -18,6 +18,7 @@ const Marathi = {
             Mobile: 'मोबाईल नंबर',
             Email: 'ईमेल आयडी:',
             Submit: 'सबमिट करा',
+            btnText4: 'पदवीधर',
         },
         Promote: {
             promote: 'विद्यार्थ्याला पदोन्नती द्या',

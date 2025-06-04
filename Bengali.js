@@ -18,6 +18,7 @@ const Bengali = {
             Mobile: 'মোবাইল নম্বর',
             Email: 'ইমেইল আইডি:',
             Submit: 'জমা দিন',
+            btnText4: 'স্নাতক',
         },
         Promote: {
             promote: 'শিক্ষার্থী উন্নীত করুন',

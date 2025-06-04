@@ -27,6 +27,7 @@ const  English = {
             btnText2: 'TC',
             GenerateTransferCertificate: 'Generate Transfer certificate',
             btntext3: 'Get Details',
+            btnText4: 'Graduate',
         },
         ShowAllStudents: {
             StudentInformation: "Student Information",
@@ -42,6 +43,7 @@ const  English = {
             Status: 'Status',
             PromoteStudent: 'Promote Student',
             TCGeneration: 'TC Generation',
+
         }, SideBar: {
             Home: 'Home',
             AddStudent: 'Add Student',
