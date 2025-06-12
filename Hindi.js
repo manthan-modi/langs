@@ -9,6 +9,7 @@ const Hindi = {
         homeContent: {
             name: 'विद्यार्थी ट्रैकर सिस्टम',
             showMessage: 'विद्यार्थियों का प्रबंधन करने के लिए साइडबार में विकल्पों पर क्लिक करें।',
+            schoolName: "केंद्रीय विद्यालय",
         },
         AddNewStudent: {
             FirstName: 'पहला नाम',
@@ -18,6 +19,11 @@ const Hindi = {
             Mobile: 'मोबाइल नंबर',
             Email: 'ईमेल आईडी:',
             Submit: 'जमा करें',
+            error_firstname_lastname_number: "पहला नाम या अंतिम नाम संख्या नहीं हो सकता",
+            error_standard_range:"कक्षा 1 से 12 के बीच होनी चाहिए",
+            success_student_added: "छात्र सफलतापूर्वक जोड़ा गया!",
+            error_student_add_failed:"छात्र जोड़ने में विफल",
+
         },
         Promote: {
             promote: 'विद्यार्थी को पदोन्नति दें',
@@ -27,6 +33,8 @@ const Hindi = {
             GenerateTransferCertificate: 'स्थानांतरण प्रमाणपत्र बनाएं',
             btntext3:'विवरण प्राप्त करें',
             btnText4: 'स्नातक',
+            success: "छात्र आईडी {id} को सफलतापूर्वक प्रोन्नत किया गया!",
+            failed: "पदोन्नति करने में विफल!"
         },
         ShowAllStudents: {
             StudentInformation: "छात्र जानकारी",
@@ -42,6 +50,14 @@ const Hindi = {
             Status: 'स्थिति',
             PromoteStudent: 'विद्यार्थी को पदोन्नति दें',
             TCGeneration: 'टीसी जनरेशन',
+            generate_tc_title: "छात्र का टीसी जनरेट करना है?",
+            confirm:"पुष्टि करें",
+            cancel: "रद्द करें",
+            graduate_student_title: "क्या छात्र को स्नातक घोषित करें?",
+            promote_student_title: "क्या छात्र को पदोन्नत करना है?",
+            success_tc_generated: "आईडी {regNo} के लिए स्थानांतरण प्रमाण पत्र बनाया गया है",
+            failed_to_graduate: "स्नातक करने में विफल!",
+            tc_generated: "टीसी बनाई गई",
         },
         SideBar: {
             Home: 'मुख्य पृष्ठ',

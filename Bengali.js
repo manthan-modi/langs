@@ -9,6 +9,7 @@ const Bengali = {
         homeContent: {
             name: 'স্টুডেন্ট ট্র্যাকার সিস্টেম',
             showMessage: 'স্টুডেন্ট পরিচালনার জন্য সাইডবারে অপশনগুলো ক্লিক করুন।',
+            schoolName: "কেন্দ্রীয় বিদ্যালয়",
         },
         AddNewStudent: {
             FirstName: 'প্রথম নাম',
@@ -19,6 +20,10 @@ const Bengali = {
             Email: 'ইমেইল আইডি:',
             Submit: 'জমা দিন',
             btnText4: 'স্নাতক',
+            error_firstname_lastname_number: "্রথম নাম বা শেষ নাম সংখ্যা হতে পারে না",
+            error_standard_range:"ছাত্র সফলভাবে যোগ করা হয়েছে!",
+            success_student_added:"ছাত্র সফলভাবে যোগ করা হয়েছে!",
+            error_student_add_failed:"ছাত্র যোগ করতে ব্যর্থ হয়েছে",
         },
         Promote: {
             promote: 'শিক্ষার্থী উন্নীত করুন',
@@ -27,6 +32,8 @@ const Bengali = {
             btnText2: 'টিসি',
             GenerateTransferCertificate: 'ট্রান্সফার সার্টিফিকেট তৈরি করুন',
             btntext3: 'বিস্তারিত দেখুন',
+            success: "ছাত্র আইডি {id} সফলভাবে উন্নীত হয়েছে!",
+            failed: "পদোন্নতি করতে ব্যর্থ!"
         },
         ShowAllStudents: {
             StudentInformation: "ছাত্রের তথ্য",
@@ -42,6 +49,14 @@ const Bengali = {
             Status: 'স্থিতি',
             PromoteStudent: 'শিক্ষার্থী উন্নীত করুন',
             TCGeneration: 'টিসি জেনারেশন',
+            generate_tc_title: "ছাত্রের টিসি তৈরি করবেন?",
+            confirm:"নিশ্চিত করুন",
+            cancel:  "বাতিল করুন",
+            graduate_student_title: "ছাত্রকে স্নাতক ঘোষণা করবেন?",
+            promote_student_title: "ছাত্রকে পদোন্নতি দিতে চান?",
+            success_tc_generated: "আইডি {regNo} এর জন্য ট্রান্সফার সার্টিফিকেট তৈরি হয়েছে",
+            failed_to_graduate: "স্নাতক হতে ব্যর্থ হয়েছে!",
+            tc_generated: "টিসি তৈরি হয়েছে",
         },
         SideBar: {
             Home: 'হোম',
