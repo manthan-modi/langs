@@ -24,6 +24,7 @@ const Bengali = {
             error_standard_range:"ছাত্র সফলভাবে যোগ করা হয়েছে!",
             success_student_added:"ছাত্র সফলভাবে যোগ করা হয়েছে!",
             error_student_add_failed:"ছাত্র যোগ করতে ব্যর্থ হয়েছে",
+            GO_BACK: "িরে যান",
         },
         Promote: {
             promote: 'শিক্ষার্থী উন্নীত করুন',
@@ -57,6 +58,7 @@ const Bengali = {
             success_tc_generated: "আইডি {regNo} এর জন্য ট্রান্সফার সার্টিফিকেট তৈরি হয়েছে",
             failed_to_graduate: "স্নাতক হতে ব্যর্থ হয়েছে!",
             tc_generated: "টিসি তৈরি হয়েছে",
+            GO_BACK: "ফিরে যাও",
         },
         SideBar: {
             Home: 'হোম',

@@ -58,6 +58,7 @@ const  English = {
             success_tc_generated: 'Transfer certificate generated for ID {regNo}',
             failed_to_graduate: "Failed to graduate!",
             tc_generated: "TC Generated",
+            GO_BACK: "Go Back",
         }, SideBar: {
             Home: 'Home',
             AddStudent: 'Add Student',

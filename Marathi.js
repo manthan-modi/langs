@@ -24,7 +24,7 @@ const Marathi = {
             error_standard_range:"इयत्ता १ ते १२ दरम्यान असावी",
             success_student_added: "विद्यार्थी यशस्वीरित्या जोडला गेला!",
             error_student_add_failed:"विद्यार्थी जोडण्यात अयशस्वी",
-
+            GO_BACK: "मागे जा",
         },
         Promote: {
             promote: 'विद्यार्थ्याला पदोन्नती द्या',
@@ -57,8 +57,8 @@ const Marathi = {
             graduate_student_title: "विद्यार्थ्याचा पदवीदान करायचा आहे का?",
             promote_student_title: "िद्यार्थ्याची पदोन्नती करायची आहे का?",
             success_tc_generated: "आयडी {regNo} साठी ट्रान्सफर प्रमाणपत्र तयार केले आहे",
-            failed_to_graduate: "पदवी प्राप्त करण्यात अयशस्वी!"
-
+            failed_to_graduate: "पदवी प्राप्त करण्यात अयशस्वी!",
+            GO_BACK: "परत जा",
         },
         SideBar: {
             Home: 'मुख्यपृष्ठ',

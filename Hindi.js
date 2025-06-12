@@ -23,7 +23,6 @@ const Hindi = {
             error_standard_range:"कक्षा 1 से 12 के बीच होनी चाहिए",
             success_student_added: "छात्र सफलतापूर्वक जोड़ा गया!",
             error_student_add_failed:"छात्र जोड़ने में विफल",
-
         },
         Promote: {
             promote: 'विद्यार्थी को पदोन्नति दें',
@@ -58,6 +57,7 @@ const Hindi = {
             success_tc_generated: "आईडी {regNo} के लिए स्थानांतरण प्रमाण पत्र बनाया गया है",
             failed_to_graduate: "स्नातक करने में विफल!",
             tc_generated: "टीसी बनाई गई",
+            GO_BACK: "वापस जाएं",
         },
         SideBar: {
             Home: 'मुख्य पृष्ठ',
